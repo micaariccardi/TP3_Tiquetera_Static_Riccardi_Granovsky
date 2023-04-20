@@ -21,7 +21,7 @@ public class Ticketera
 
     public Cliente BuscarCliente(int idEntrada)
     {
-        if (DicClientes[idEntrada] != null)
+        if (DicClientes.ContainsKey(idEntrada))
         {
             return DicClientes[idEntrada];
         }
@@ -36,9 +36,10 @@ public class Ticketera
         bool valido = false;
         if (precioTipoEntrada[tipoEntradaNuevo] > total)
         {
-            valido = true;
             DicClientes[id].tipoEntrada = tipoEntradaNuevo;
             DicClientes[id].totalAbonado = tipoEntradaNuevo; 
+            DicClientes[id].fechaInscripcion = DateTime.Today;
+            valido = true;
         }
         return valido;
     }

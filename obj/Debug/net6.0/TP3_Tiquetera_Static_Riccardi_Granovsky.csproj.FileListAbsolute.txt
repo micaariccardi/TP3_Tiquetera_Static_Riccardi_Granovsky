@@ -1,0 +1,15 @@
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\bin\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.exe
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\bin\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.deps.json
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\bin\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.runtimeconfig.json
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\bin\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.dll
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\bin\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.pdb
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.csproj.AssemblyReference.cache
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.AssemblyInfoInputs.cache
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.AssemblyInfo.cs
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.csproj.CoreCompileInputs.cache
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.dll
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\refint\TP3_Tiquetera_Static_Riccardi_Granovsky.dll
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.pdb
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\TP3_Tiquetera_Static_Riccardi_Granovsky.genruntimeconfig.cache
+Z:\2023\Programación\TP3_Tiquetera_Static_Riccardi_Granovsky\obj\Debug\net6.0\ref\TP3_Tiquetera_Static_Riccardi_Granovsky.dll
